@@ -1,0 +1,7 @@
+<div class="lang-switch">
+  {% if page.lang == "pt" %}
+    <a href="/en{{ page.url }}">EN</a>
+  {% else %}
+    <a href="{{ page.url | remove: '/en' }}">PT</a>
+  {% endif %}
+</div>

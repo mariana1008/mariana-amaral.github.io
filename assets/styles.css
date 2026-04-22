@@ -1,0 +1,12 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  font-family: -apple-system, sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.lang-switch {
+  float: right;
+  font-size: 14px;
+}

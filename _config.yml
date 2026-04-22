@@ -1,8 +1,18 @@
 title: Mariana Santana Amaral
-description: Personal site + projects + journal
+description: Personal site + projects
 theme: minima
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "pt"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
 
 header_pages:
   - about.md
   - projects.md
-  - journal.md
+  - en/about.md

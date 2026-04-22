@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-## Sobre mim
+## Who I Am
 Write a short, clear introduction.
 
-## Habilidades
+## Skills
 - Programming: Python, JavaScript
 - Tools: Git, Docker
 - Interests: AI, Web Dev
 
-## Objetivos
+## Goals
 What you're working toward or learning.
