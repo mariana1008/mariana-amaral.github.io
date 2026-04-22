@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
-{% include header.html %}
 
 # Oi, eu sou Mariana 👋 
 Short intro about you. What you do, what you're learning, what you're building.
@@ -15,3 +14,6 @@ Short intro about you. What you do, what you're learning, what you're building.
 ## 🚀 Projetos recentes
 - [modern-angular](https://github.com/mariana1008/modern-angular) — short description
 - [spring-ai-angular](https://github.com/mariana1008/spring-ai-angular) — short description
+
+
+{% include header.html %}
