@@ -1,12 +1,28 @@
-body {
-  max-width: 800px;
-  margin: auto;
-  font-family: -apple-system, sans-serif;
-  line-height: 1.6;
-  padding: 20px;
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 30px;
 }
 
-.lang-switch {
-  float: right;
+.profile-pic {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.header-text p {
+  margin: 0;
   font-size: 14px;
+  color: #666;
+}
+
+.header-lang {
+  margin-left: auto;
 }

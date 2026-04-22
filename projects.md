@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 ---
+{% include header.html %}
 
 ## 🧠 Project One
 **Description:** What it does and why it matters  

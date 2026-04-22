@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+{% include header.html %}
 
 ## Who I Am
 Write a short, clear introduction.

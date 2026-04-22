@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ---
+{% include header.html %}
 
 # Hi, I'm Mariana 👋 
 ![Profile](assets/profile.jpg)

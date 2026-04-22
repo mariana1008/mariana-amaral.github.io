@@ -15,4 +15,3 @@ defaults:
 header_pages:
   - about.md
   - projects.md
-  - en/about.md

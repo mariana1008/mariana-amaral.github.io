@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-# Oi, eu sou Mariana 👋 
-![Profile](assets/profile.jpg)
+{% include header.html %}
 
+# Oi, eu sou Mariana 👋 
 Short intro about you. What you do, what you're learning, what you're building.
 
 ## 🔗 Links
