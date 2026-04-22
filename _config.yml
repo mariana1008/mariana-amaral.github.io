@@ -1,0 +1,8 @@
+title: Mariana Santana Amaral
+description: Personal site + projects + journal
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - journal.md
